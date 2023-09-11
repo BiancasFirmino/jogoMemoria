@@ -1,0 +1,2 @@
+# jogoMemoria
+ai jogo legal
